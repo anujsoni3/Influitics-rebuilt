@@ -13,7 +13,8 @@ Crafted using **Lovable.dev** and refined manually for design accuracy and code 
 [![Framer Motion](https://img.shields.io/badge/Framer-Motion-0055FF?style=flat&logo=framer)](https://www.framer.com/motion/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
+[![Live Demo](https://influitics-rebuilt.vercel.app/)](LiveDemo)
+ 
 
 </div>
 
