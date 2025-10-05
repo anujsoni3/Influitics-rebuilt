@@ -7,13 +7,13 @@
 A **pixel-perfect recreation** of the [Influtics by Temptics](https://influtics.temptics.com/index.html) landing page — fully responsive, animated, and optimized for production.
 
 Crafted using **Lovable.dev** and refined manually for design accuracy and code quality.
-
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer-Motion-0055FF?style=flat&logo=framer)](https://www.framer.com/motion/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[![Live Demo](https://influitics-rebuilt.vercel.app/)](LiveDemo)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://influitics-rebuilt.vercel.app/)
+
  
 
 </div>
